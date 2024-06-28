@@ -15,9 +15,9 @@ Personal information is any information about you which can be used to identify 
 
 In the event our app contains links to third-party sites and services, please be aware that those sites and services have their own privacy policies. After following a link to any third-party content, you should read their posted privacy policy information about how they collect and use personal information. This Privacy Policy does not apply to any of your activities after you leave our app.
 
-This policy is effective as of 19 November 2021.
+This policy is effective as of June 28 2024.
 
-Last updated: 19 November 2021
+Last updated: June 28 2024
 
 ## Information We Collect
 
